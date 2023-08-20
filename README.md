@@ -6,20 +6,23 @@ Software Engineer
 
 I'm an aspiring software engineer with a passion for creating things.
 
-* 🌍  I'm based in St. Louis
-* ✉️  You can contact me at [michaelfuentes159@gmail.com](mailto:michaelfuentes159@gmail.com)
-* 🧠  I'm learning HTML, CSS, JavaScript
-* 🤝  I'm open to collaborating on anything in JavaScript
+* 🌍  I'm based in St. Louis
+* ✉️  You can contact me at [michaelfuentes159@gmail.com](mailto:michaelfuentes159@gmail.com)
+* 🧠  I'm learning HTML, CSS, JavaScript
+* 🤝  I'm open to collaborating on anything in JavaScript
 
 ### Skills
 
+
 <p align="left">
-ICON ICON ICON
+[](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ICON ICON
 </p>
+
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/fuentesmichael1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
