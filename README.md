@@ -8,7 +8,7 @@ I'm an aspiring software engineer with a passion for creating things.
 
 * 🌍  I'm based in St. Louis
 * ✉️  You can contact me at [michaelfuentes159@gmail.com](mailto:michaelfuentes159@gmail.com)
-* 🧠  I'm learning HTML, CSS, JavaScript
+* 🧠  I'm learning HTML, CSS, JavaScript, Python
 * 🤝  I'm open to collaborating on anything in JavaScript
 
 ### Skills
